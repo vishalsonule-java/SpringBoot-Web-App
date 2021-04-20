@@ -6,5 +6,6 @@ import lombok.Data;
 public class Car {
 private Integer enggNo;
 private String model;
+private String wonerName;
 private Long carNo;
 }
